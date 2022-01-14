@@ -151,10 +151,12 @@ struct dose1{
     char name[100],address[500],gender[100];
     int age,phonenum,aadharnum;
 }information1[1000];
+
 struct dose2{
     char name[100],address[500];
     int age,phonenum,aadharnum;
 }information2[1000];
+
 struct boosterdose{
     char name[100],address[500];
     int age,phonenum,aadharnum;
